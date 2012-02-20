@@ -1,20 +1,20 @@
 Five Days Ago (for Python)
 ==========================
 
-This is just a proof of the concept library.
+This library is just a proof of concept.
 
-It allow you to use some syntax sugar, working with relative dates:
+It provides some syntax sugar for working with relative dates:
 
     >> from ago import *
     >>> print five.days.ago
     2012-02-15 13:15:27.013668
 
-Have a fun!
+Have fun!
 
 Unittests
 ---------
 
-Yes, we have them! How to run? Easily:
+Yes, we have them! Run them simply by:
 
     nosetests
 
