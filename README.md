@@ -18,3 +18,7 @@ Yes, we have them! Run them simply by:
 
     nosetests
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/svetlyak40wt/five-days-ago/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
